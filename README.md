@@ -6,22 +6,34 @@ The aim of this project is to design a Reverse Car Parking System commanded by a
 Project Idea
 To develop a reverse car parking system using Raspberry Pi which will
 • Detect free parking spot with ultrasonic
+
 • take a 90 degree turn
+
 • Reverse park itself
 
 
 
 Equipments
 • Raspberry pi board,
+
 • HC-SR04 Ultrasonic Distance Sensor,
+
 • D.C. Motors (X2),
+
 • Wheels (X2),
+
 • Caster wheel / Omni wheel ,
+
 • Led (X3),
+
 • Some Resistors,
+
 • Jumper Wires,
+
 • Breadboard / Explorer-hat,
+
 • Mu / PyCharm,
+
 • Buzzer.
 
 
